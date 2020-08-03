@@ -1,0 +1,4 @@
+echo 'file search on current catalog and file'
+echo '==============sf================='
+ls
+echo '================================='
